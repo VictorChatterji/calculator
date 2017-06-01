@@ -1,2 +1,2 @@
-# calculator
-Learning swift
+# Calculator
+Learning swift and Xcode
